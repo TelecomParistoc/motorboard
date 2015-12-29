@@ -2384,8 +2384,8 @@ Your Eurocircuits Team
 <vertex x="68.9" y="24.6"/>
 <vertex x="1.7" y="24.6"/>
 </polygon>
-<polygon width="0.4064" layer="1" isolate="0.3048">
-<vertex x="11" y="24.5"/>
+<polygon width="0.3048" layer="1" isolate="0.3048">
+<vertex x="63.2" y="24.5"/>
 <vertex x="7.1" y="24.5"/>
 <vertex x="7.1" y="20.6"/>
 <vertex x="5.1" y="18.6"/>
@@ -2394,17 +2394,27 @@ Your Eurocircuits Team
 <vertex x="5.2" y="6.4"/>
 <vertex x="7.1" y="4.5"/>
 <vertex x="7.1" y="0.3"/>
-<vertex x="62.9" y="0.3"/>
-<vertex x="62.9" y="4.8"/>
+<vertex x="63.3" y="0.3"/>
+<vertex x="63.3" y="4.8"/>
 <vertex x="63.7" y="5.6"/>
 <vertex x="63.6" y="19.5"/>
-<vertex x="62.9" y="20.4"/>
-<vertex x="62.9" y="24.6"/>
+<vertex x="63.2" y="20.3"/>
 </polygon>
 <via x="3.6" y="12.6" extent="1-16" drill="0.6"/>
 <via x="36.3" y="1.5" extent="1-16" drill="0.6"/>
 <via x="21.3" y="17.6" extent="1-16" drill="0.6"/>
 <via x="28.9" y="4.8" extent="1-16" drill="0.6"/>
+<via x="2" y="17.6" extent="1-16" drill="0.6"/>
+<via x="2.2" y="7.5" extent="1-16" drill="0.6"/>
+<via x="8.1" y="1.4" extent="1-16" drill="0.6"/>
+<via x="62.1" y="24" extent="1-16" drill="0.6"/>
+<via x="62.1" y="1.2" extent="1-16" drill="0.6"/>
+<via x="19.8" y="23.6" extent="1-16" drill="0.6"/>
+<via x="47.5" y="23.6" extent="1-16" drill="0.6"/>
+<via x="25.1" y="1.4" extent="1-16" drill="0.6"/>
+<via x="48.2" y="1.4" extent="1-16" drill="0.6"/>
+<via x="15" y="8.8" extent="1-16" drill="0.6"/>
+<wire x1="13.327" y1="6.715" x2="15" y2="8.8" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$9">
 <contactref element="RUN" pad="C"/>
