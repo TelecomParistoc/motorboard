@@ -7992,8 +7992,8 @@ Source: http://www.osram.convergy.de/</description>
 <part name="P+6" library="supply1" deviceset="VCC" device="" value="3,3V"/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="C1" library="resistor" deviceset="C-EU" device="C0805" value="100n"/>
-<part name="C4" library="resistor" deviceset="C-EU" device="C0805" value="4.7uF"/>
-<part name="C5" library="resistor" deviceset="C-EU" device="C0805" value="10uF"/>
+<part name="C4" library="resistor" deviceset="C-EU" device="C0805" value="10uF"/>
+<part name="C5" library="resistor" deviceset="C-EU" device="C0805" value="100nF"/>
 <part name="C6" library="resistor" deviceset="C-EU" device="C0805" value="100n"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="RADIO" library="con-amp" deviceset="SMDTOP-6" device=""/>
