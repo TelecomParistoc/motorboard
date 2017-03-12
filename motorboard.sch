@@ -8648,7 +8648,7 @@ Source: http://www.osram.convergy.de/</description>
 <approved hash="113,1,15.5617,143.51,5V,,,,,"/>
 <approved hash="113,1,62.23,154.618,RUN,,,,,"/>
 <approved hash="113,1,12.6577,106.875,IMU,,,,,"/>
-<approved hash="113,1,167.956,30.48,X1,,,,,"/>
+<approved hash="113,1,170.428,30.48,RADIO,,,,,"/>
 </errors>
 </schematic>
 </drawing>
